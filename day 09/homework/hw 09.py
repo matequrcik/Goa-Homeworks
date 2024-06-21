@@ -1,0 +1,5 @@
+user_age =int(input("how old are you?: "))
+user_parent=int(input("how old are your mother?: "))
+user_parent2=int*(input("how old are your fatrer?: "))
+print("your mother is " ,user_parent - user_age, " years bigger, than you!")
+print("your father is " ,user_parent2 - user_age, "years bigger, than you!")

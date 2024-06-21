@@ -1,0 +1,13 @@
+mathematic=(int(input("matematikasi ra qula gaqvs?: ")))
+georgian=(int(input("qartulshi?: ")))
+ბუნება=(int(input("ბუნება: ")))
+music=(int(input("მუსიკა: ")))
+xelovneba=(int(input("xelovneba: ")))
+istory=(int(input("ისტორია: ")))
+computer=(int(input("kompiuteri: ")))
+russia=(int(input("რუსული: ")))
+sport=(int(input("სპორტი: ")))
+english=(int(input("inglisuri: ")))
+jh=int(mathematic+georgian+ბუნება+music+xelovneba+istory+computer+russia+sport+english)
+print(("შენი სრუ ლ ი ქულ აა " , jh))
+
