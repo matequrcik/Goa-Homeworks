@@ -1,0 +1,13 @@
+goa_students=[]
+goa_students.append("მათე ქურციკიძე")
+goa_students.append("ანდრია გიორგაძე")
+goa_students.append("ლაზარე იაკობაძე")
+goa_students.append("ბატონი გაბრიელ მოლოდინი")
+goa_students.append("მერაბი ღაღანიძე")
+goa_students.append("ირაკლი კუპრაშვილი")
+goa_students.append("ალექსანდრე ჩანქსელიანი")
+goa_students.append("ნიკოლოზ წიკლაური")
+goa_students.append("თაზო ედითერაშვილი")
+goa_students.append("მარიამ გვილავა")
+goa_students.append("გიო გვარძელაშვილი")
+print(goa_students)
