@@ -1,0 +1,1 @@
+print("mate", "qurcikidze", 12)
