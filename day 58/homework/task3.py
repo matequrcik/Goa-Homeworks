@@ -1,5 +1,6 @@
 """3) დაწერეთ ფუნქცია სადაც პარამეტრად გექნებათ მომხმარებლის სახელი შემდეგ დაპრინტეთ მისასალმებელი მესიჯი მაგალითად Hello Davit!"""
 
-def name():
-    print("hello")
-name()
+def greet(name):
+    print("hello " + name + "!")
+
+greet("mate")
