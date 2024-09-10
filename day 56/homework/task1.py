@@ -35,6 +35,6 @@ def go_shopping ():
     print("შედისახლში")
     print("დადე მაგიდაზე")
 
-
+go_shopping()
 
     
