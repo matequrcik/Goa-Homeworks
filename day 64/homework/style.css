@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+
+#hg1{
+    font-size: 60px;
+    height: 150px;
+    width: 700px;
+    color: rgb(255, 0, 204);
+    background-color: rgb(255, 0, 0);
+}
+#hg2{
+    font-size: 60px;
+    height: 150px;
+    width: 700px;
+    color: rgb(38, 0, 255);
+    background-color: rgb(255, 123, 0);
+}
+#hg3{
+    font-size: 60px;
+    height: 150px;
+    width: 700px;
+    color: rgb(0, 213, 255);
+    background-color: rgb(251, 255, 0);
+}
+#hg4{
+    font-size: 60px;
+    height: 150px;
+    width: 700px;
+    color: rgb(0, 255, 8);
+    background-color: rgb(255, 247, 0);
+}
+#hg5{
+    font-size: 60px;
+    height: 150px;
+    width: 700px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 0, 166);
+}
+#p1{
+    height: 300px;
+    width: 300px;
+}
+#p2{
+    height: 500px;
+    width: 300px;
+}
+#p3{
+    height: 700px;
+    width: 500px;
+}
+#t1{
+    color:rgb(43, 255, 0) ;
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+    width: 200px;
+    height: 500px;
+}
+#t2{
+    color:rgb(246, 255, 0) ;
+    background-color: rgb(251, 255, 0);
+    font-size: 30px;
+    width: 200px;
+    height: 500px;
+}
+#t3{
+    color:rgb(255, 0, 0) ;
+    background-color: rgb(102, 255, 0);
+    font-size: 30px;
+    width: 200px;
+    height: 500px;
+}
