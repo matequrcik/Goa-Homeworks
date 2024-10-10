@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(11, 11, 11);
+}
+
+header{
+    font-size: 64px;
+    color: rgb(0, 255, 13);
+    text-align: center;
+}
+#p1{
+    font-size: 39px;
+    color: rgb(244, 244, 244);
+}
+#p2{
+    font-size: 39px;
+    color: rgb(198, 251, 189);
+}

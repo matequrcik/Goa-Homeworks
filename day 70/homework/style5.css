@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 160, 91);
+}
+header{
+    font-size: 60px;
+    text-align: center;
+}
+#g1{
+    width: 400px;
+}
+p{
+    font-size: 39px;
+    color: rgb(95, 56, 15);
+}
