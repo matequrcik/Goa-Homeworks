@@ -1,0 +1,35 @@
+p{
+    color: rgb(255, 0, 0);
+    font-size: 34px;
+    background-color: rgb(58, 58, 58);
+}
+h1{
+color: rgb(255, 136, 0);
+font-size: 34px;
+background-color: rgb(58, 58, 58);
+}
+h2{
+    color: rgb(255, 251, 0);
+font-size: 34px;
+background-color: rgb(58, 58, 58);
+}
+h3{
+    color: rgb(21, 255, 0);
+font-size: 34px;
+background-color: rgb(58, 58, 58);
+}
+h4{
+    color: rgb(0, 229, 255);
+font-size: 34px;
+background-color: brown;
+}
+h5{
+    color: blue;
+    font-size: 34px;
+    background-color: brown;
+}
+h6{
+    color: rgb(195, 0, 255);
+font-size: 34px;
+background-color: brown;
+}
