@@ -1,0 +1,26 @@
+P,b{
+    text-align: center;
+    font-size: 60px;
+}
+img{
+    margin: 1px auto;
+    display:block;
+}
+#p2{
+    font-size: 27px;
+    background-color: rgba(38, 0, 255, 0.092);
+}
+#p3{
+    font-size: 27px;
+    background-color: rgba(38, 0, 255, 0.092);
+}
+#p1{
+    font-size: 50px;
+    text-align: center;
+}
+#df{
+    width: 600px;
+}
+button{
+    background-color: rgb(255, 0, 0);
+}

@@ -1,0 +1,23 @@
+body{
+    background-image: url(image11.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+p,b{
+    font-size: 60px;
+    text-align: center;
+}
+#fg{
+    margin: 1px auto;
+    display:block;
+}
+.pw{
+    font-size: 33px;
+    background-color: rgba(38, 0, 255, 0.092);
+}
+video{
+    width: 500px;
+}

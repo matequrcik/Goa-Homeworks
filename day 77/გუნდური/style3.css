@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(image6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+p,b{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(224, 224, 224);
+}
+img{
+    margin: 1px auto;
+    display:block;
+}
+.p1{
+    
+    font-size: 27px;
+    background-color: rgba(38, 0, 255, 0.092);
+    color: rgb(51, 51, 51);
+    
+}
+#u1{
+    text-align: center;
+    font-size: 47px;
+}
+button{
+    background-color: rgb(255, 0, 0);
+}
+

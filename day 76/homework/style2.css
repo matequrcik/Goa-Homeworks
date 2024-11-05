@@ -1,0 +1,9 @@
+div{
+    width: 700px;
+    height: 1000px;
+    background-color: rgb(15, 0, 84);
+}
+div,div{
+    height: 50%;
+    color: yellow;
+}

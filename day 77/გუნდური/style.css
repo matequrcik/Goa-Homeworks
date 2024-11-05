@@ -1,0 +1,24 @@
+body{
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+header{
+    text-align: center;
+    font-size: 100px;
+}
+#b1{
+    background-color: rgb(9, 5, 236);
+}
+#b2{
+    background-color: rgb(35, 236, 13);
+}
+#b3{
+    background-color: rgb(255, 0, 0);
+}
+#b4{
+    background-color: rgb(189, 75, 255);
+}
