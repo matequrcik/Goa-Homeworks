@@ -1,0 +1,24 @@
+#p1{
+    color: red;
+}
+#p2{
+    font-size: 36px;
+}
+#p3{
+   font-style: italic; 
+}
+#p4{
+    text-align: center;
+}
+#p5{
+    font-family:sans-serif;
+}
+#p6{
+    font-weight:900;
+}
+#p7{
+    text-decoration: underline;
+}
+#p8{
+    text-transform: red dashed uppercase;
+}

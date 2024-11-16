@@ -1,0 +1,15 @@
+#p1{
+    text-decoration: overline red;
+}
+#p2{
+    text-decoration: line-through rgb(47, 255, 0);
+}
+#p3{
+    text-decoration: underline rgb(8, 0, 255);
+}
+#p4{
+    text-decoration: line-through rgb(255, 251, 0);
+}
+#p5{
+    text-decoration: underline rgb(255, 106, 0);
+}
