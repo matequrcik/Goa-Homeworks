@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&family=Sansita+Swashed:wght@300..900&display=swap');
+
+#ty{
+    font-family: "Imbue", serif;
+    font-size: 50px;
+    color: red;
+}
+#yt{
+  font-family: "Sansita Swashed", system-ui;
+    font-size: 50px;
+    color: rgb(55, 255, 0);
+}
