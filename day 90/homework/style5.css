@@ -1,0 +1,12 @@
+#u1{
+color: red;
+}
+#u1{
+    list-style-type: circle;
+}
+#u1{
+    list-style-position: inside;
+}
+#u1{
+    list-style-image: url(image1.png);
+}

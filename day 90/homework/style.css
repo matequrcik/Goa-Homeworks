@@ -1,0 +1,9 @@
+#d1{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px dotted red;
+    margin: 50px 60px 70px 80px;
+    padding: 10px 20px 15px 25px;
+}

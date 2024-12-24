@@ -1,0 +1,9 @@
+#u1{
+    list-style-type:square ;
+}
+#u2{
+    list-style-position:outside ;
+}
+#u3{
+    list-style-image:url(image1.png) ;
+}
