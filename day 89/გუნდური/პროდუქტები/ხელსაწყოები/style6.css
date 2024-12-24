@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right, #000000, #626100);
+    color: #ffffff;
+}
+.allinone{
+    display: flex;
+}
+.drill{
+    padding-left: 25px;
+}
+.nails{
+    padding-left: 25px;
+}
+.ULTIMATE_WEAPON_NOKIA_HAMMER{
+    padding-left: 25px;
+}
+.shovel{
+    padding-left: 25px;
+}
+.wrench{
+    padding-left: 25px;
+}
+.mb{
+    text-align: center;
+}

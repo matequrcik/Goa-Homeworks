@@ -1,0 +1,6 @@
+table, th, td {
+    border-top:solid black 1px;
+    border-bottom:dotted black 1px;
+    border-left:solid rgb(255, 0, 0) 3px; 
+    border-right:solid rgb(48, 134, 130) 2px;
+}

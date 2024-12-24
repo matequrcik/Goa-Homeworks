@@ -1,0 +1,164 @@
+body{
+    background: linear-gradient(to right, #e7e7e7, #622100);
+}
+button{
+    transition: 0.5s;
+    border:dotted;
+}
+#hg1{
+    padding-right: 5px;
+}
+#hg1:hover{
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 305px;
+}
+#hg1:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg2{
+    padding-right: 5px;
+}
+#hg2:hover{
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 305px;
+}
+#hg2:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg3{
+    padding: right 5px;
+}
+#hg3:hover{ 
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 305px;
+}
+#hg3:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg4{
+    padding: right 5px;
+}
+#hg4:hover{ 
+    padding: right 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width: 305px;
+    height: 305px;
+}
+#hg4:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg5{
+    padding: right 5px;
+}
+#hg5:hover{ 
+    padding: right 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width: 305px;
+    height: 245px;
+}
+#hg5:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+
+button:visited{
+    background-color: rgb(67, 67, 255);
+}
+h1{
+    color: white;
+}
+
+#d3{
+    text-align: right;
+}
+#d4{
+    text-align: center;
+}
+
+#sdsd{
+    border: dotted 2px white;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    transition: 0.5s;
+
+}
+
+#sdsd:active{
+
+    background-color: white;
+    border-radius: 26%;
+    border: double rgb(1, 247, 247);
+}
+
+#dd{
+    display: flex;
+}
+#vv{
+    color: black;
+}
+#dj:hover{
+    border-radius: 15%;
+    border: double;
+    width: 320px;
+    height: 320px;
+}
+#dj:active{
+    border-radius: 20%;
+    border: dotted;
+    width: 315x;
+    height: 315px;
+    background-color: #0015ff80;
+}
+#bn{
+    text-align: center;
+    padding: 23px;
+    color: rgb(249, 194, 253);
+    font-size: 19px;
+    background-color: #0b032032;
+}

@@ -1,0 +1,11 @@
+p{
+    transition: 0.5s;
+    color:rgb(46, 253, 0);
+    font-size: 40px;
+    background-color: rgb(31, 31, 31);
+}
+p.hover{
+    font-size: 50px;
+    background-color:yellow ;
+    text-shadow: 0px 0.1px 1px red;
+}

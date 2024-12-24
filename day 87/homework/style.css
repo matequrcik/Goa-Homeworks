@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(28, 28, 28);
+}
+p{
+    font-size: 30px;
+text-shadow: 0.5 0.5 0.3 cyan;
+    color: white;
+}
+h1{
+    color: white;
+}

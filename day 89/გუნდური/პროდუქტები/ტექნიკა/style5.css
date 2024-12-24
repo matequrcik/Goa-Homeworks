@@ -1,0 +1,170 @@
+body{
+    background: linear-gradient(to right, #1a0947, #52c0f4);
+    text-shadow: 0.2px 0.2px 0.4px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+button{
+    transition: 0.5s;
+    border:dotted;
+}
+#hg1{
+    padding-right: 5px;
+}
+#hg1:hover{
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 345px;
+}
+#hg1:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg2{
+    padding-right: 5px;
+}
+#hg2:hover{
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 505px;
+}
+#hg2:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg3{
+    padding: right 5px;
+}
+#hg3:hover{ 
+    padding-right: 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width:305px;
+    height: 190px;
+}
+#hg3:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg4{
+    padding: right 5px;
+}
+#hg4:hover{ 
+    padding: right 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width: 290px;
+    height: 400px;
+}
+#hg4:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+#hg5{
+    padding: right 5px;
+}
+#hg5:hover{ 
+    padding: right 5px;
+    transition: 0.5s;
+    background-color:rgb(255, 238, 0);
+    border: double;
+    border-radius: 5%;
+    border-width: 10px;
+    width: 305px;
+    height: 245px;
+}
+#hg5:active{
+    padding-right: 5px;
+    background-color: rgb(134, 139, 0);
+    border-radius: 12%;
+    border: dashed;
+    border-width: 12px;
+}
+
+button:visited{
+    background-color: rgb(67, 67, 255);
+}
+h1{
+    color: white;
+}
+
+#d3{
+    text-align: right;
+}
+#d4{
+    text-align: center;
+}
+#d5{
+
+}
+#sdsd{
+    border: dotted 2px white;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    transition: 0.5s;
+
+}
+
+#sdsd:active{
+
+    background-color: white;
+    border-radius: 26%;
+    border: double rgb(1, 247, 247);
+}
+
+#dd{
+    display: flex;
+}
+#vv{
+    color: black;
+}
+#fgn:hover{
+    transition: 0.5s;
+    border-radius: 9%;
+    border: double;
+    width: 316px;
+    height: 317px;
+    background-color: #5fee00a4;
+}
+#fgn:active{
+    border-radius: 20%;
+    border: dotted;
+    width: 315x;
+    height: 315px;
+    background-color: #0414c12a;
+}
+#bn{
+    text-align: center;
+    padding: 23px;
+    color: rgb(249, 194, 253);
+    font-size: 19px;
+    background-color: #0b032032;
+}

@@ -1,0 +1,12 @@
+table, th, td {
+    border-top:solid black 1px;
+    border-bottom:dotted black 1px;
+    border-left:solid rgb(255, 0, 0) 3px; 
+    border-right:solid rgb(48, 134, 130) 2px;
+    padding: 10px;
+    padding-left: 3px;
+    padding-top: 7px;
+    padding-bottom: 1px;
+    padding-right: 11px;
+    width:40px ;
+}

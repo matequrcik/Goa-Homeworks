@@ -1,0 +1,14 @@
+.p1{
+    width:150px;
+    height: 150px;
+    background-color: black;
+    border: double cyan;
+    transition: 0.6s;
+}
+.p1:hover{
+    border: dashed rgb(255, 0, 0);
+}
+.p1:active{
+    border: dotted rgb(255, 0, 0);
+}
+

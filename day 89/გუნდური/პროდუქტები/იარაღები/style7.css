@@ -1,0 +1,80 @@
+body{
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#i1{
+    transition: 0.5s;
+}
+#i1:hover{
+    width: 305px;
+    height: 205px;
+    transition: 0.5s;
+}
+#i2{
+    transition: 0.5s;
+}
+#i2:hover{
+    width: 305px;
+    height: 175px;
+    transition: 0.5s;
+}
+#i3{
+    transition: 0.5s;
+}
+#i3:hover{
+    width: 305px;
+    height: 238px;
+    transition: 0.5s;
+}
+#i4{
+    transition: 0.5s;
+}
+#i4:hover{
+    width: 305px;
+    height: 245px;
+    transition: 0.5s;
+}
+#i5{
+    transition: 0.5s;
+}
+#i5:hover{
+    transition: 0.5s;
+    width: 305px;
+    height: 255px;
+}
+.fg{
+    transition: 0.5s;
+    text-align: center;
+}
+#i6:hover{
+    transition: 0.5s;
+    width: 305px;
+    height: 305px;
+}
+
+#d2{
+    text-align: center;
+    padding-left: 50px;
+}
+#d3{
+    text-align: right;
+    padding-left: 50px;
+}
+#d4{
+    text-align: center;
+    padding-left: 50px;
+}
+
+h1{
+    color:#ffffff;
+}
+#dd{
+    display: flex;
+}
+#d5{
+    text-align: center;
+    padding-top: 50px;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body{
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+button{
+    transition: 0.5s;
+}
+button:hover{
+    background-color:rgb(255, 96, 96);
+}
+button:active{
+    background-color: rgb(125, 42, 42);
+}
+button:visited{
+    background-color: rgb(67, 67, 255);
+}
+h1{
+    font-size: 50px;
+}

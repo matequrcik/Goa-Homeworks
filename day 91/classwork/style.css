@@ -1,0 +1,16 @@
+.e1{
+    outline: none;
+    border: 1px dotted red;
+}
+.e2{
+    outline: none;
+    border: 2px double rgb(255, 247, 0);
+}
+.e3{
+    outline: none;
+    border: 4px dashed rgb(55, 255, 0);
+}
+.e4{
+    outline: none;
+    border: 2.5px dashed rgb(0, 204, 255);
+}

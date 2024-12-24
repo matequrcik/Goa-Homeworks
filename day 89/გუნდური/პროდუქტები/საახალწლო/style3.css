@@ -1,0 +1,67 @@
+body{
+    background-image: url(image8.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 0.2px 0.2px 0.4px rgb(0, 0, 0);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+button{
+    transition: 0.5s;
+    border:dotted;
+}
+button:hover{
+    background-color:rgb(255, 96, 96);
+    border: double;
+    border-radius: 8%;
+}
+button:active{
+    background-color: rgb(125, 42, 42);
+    border-radius: 15%;
+    border: dashed;
+}
+button:visited{
+    background-color: rgb(67, 67, 255);
+}
+h1{
+    color: white;
+}
+
+
+#d2{
+    text-align:center ;
+    
+}
+
+#d3{
+    text-align: right;
+}
+#d4{
+    text-align: center;
+}
+#sdsd{
+    border: dotted 2px white;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    transition: 0.5s;
+
+}
+
+#sdsd:active{
+
+    background-color: white;
+    border-radius: 26%;
+    border: double rgb(1, 247, 247);
+}
+
+#dd{
+    display: flex;
+}
+#vv{
+    color: black;
+ 
+}
